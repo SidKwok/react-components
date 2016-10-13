@@ -1,2 +1,3 @@
-# react-components
-awesome components made by React
+# react-componets
+
+> To kill my time
